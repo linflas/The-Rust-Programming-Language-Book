@@ -1,4 +1,4 @@
-# Foreword
+# Förord
 
 Det var inte alltid så tydligt, men programmeringsspråket Rust handlar i grunden
 om att ta makten. Oavsett vilken typ av kod du skriver nu, låter Rust dig ta makten
