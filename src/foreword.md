@@ -1,16 +1,16 @@
 # Foreword
 
-It wasn’t always so clear, but the Rust programming language is fundamentally
-about _empowerment_: no matter what kind of code you are writing now, Rust
-empowers you to reach farther, to program with confidence in a wider variety of
-domains than you did before.
+Det var inte alltid så tydligt, men programmeringsspråket Rust handlar i grunden
+om självförtroende: oavsett vilken typ av kod du skriver nu, ger Rust dig möjlighet
+att nå längre, att programmera med självförtroende i en större mängd olika
+områden än du gjorde tidigare.
 
-Take, for example, “systems-level” work that deals with low-level details of
-memory management, data representation, and concurrency. Traditionally, this
-realm of programming is seen as arcane, accessible only to a select few who
-have devoted the necessary years learning to avoid its infamous pitfalls. And
-even those who practice it do so with caution, lest their code be open to
-exploits, crashes, or corruption.
+Ta till exempel arbete på "systemnivå" som handlar om detaljer på låg nivå med 
+minneshantering, datarepresentation och samtidighet (trådar). Traditionellt ses detta
+område av programmering som snudd på magi, tillgängligt endast för ett fåtal utvalda
+som har hängett sig att studera detta alla de år det tar för att undvika dess ökända
+fallgropar. Och även de som utövar det gör det med försiktighet, så att deras kod inte
+är utsatt för sårbarhet, programkraschar eller blir korrupt.
 
 Rust breaks down these barriers by eliminating the old pitfalls and providing a
 friendly, polished set of tools to help you along the way. Programmers who need
