@@ -1,8 +1,8 @@
-# The Rust Programming Language
+# Programmeringsspråket Rust
 
-[The Rust Programming Language](title-page.md)
-[Foreword](foreword.md)
-[Introduction](ch00-00-introduction.md)
+[Programmingsspråket Rust](title-page.md)
+[Förord](foreword.md)
+[Introduktion](ch00-00-introduction.md)
 
 ## Getting started
 
